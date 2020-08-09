@@ -14,7 +14,7 @@ setuptools.setup(
     ],
     entry_points={
         'jupyter_serverproxy_servers': [
-            'illumidesk-vscode-proxy = illumidesk_vscode_proxy:setup_vscode',
+            'vscode = illumidesk_vscode_proxy:setup_vscode',
         ]
     },
     package_data={
