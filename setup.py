@@ -2,8 +2,8 @@ import setuptools
 
 setuptools.setup(
     name="illumidesk-vscode-proxy",
-    version='0.1.0',
-    url="https://github.com/jupyterhub/illumidesk-vscode-proxy",
+    version='0.1.2',
+    url="https://github.com/illumidesk/illumidesk-vscode-proxy",
     author="IllumiDesk Team",
     description="hello@illumidesk.com",
     packages=setuptools.find_packages(),
